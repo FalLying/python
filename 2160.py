@@ -1,0 +1,1 @@
+print('YES' if int(len(input())) < 81 else 'NO')
